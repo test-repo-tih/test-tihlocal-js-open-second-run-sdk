@@ -9,7 +9,7 @@
       "use": "@microsoft.azure/autorest.typescript@4.2.2"
     },
     "advanced_options": {
-      "clone_dir": "./test-tihlocal-js-open-second-run-sdk",
+      "clone_dir": "./azure-sdk-for-js-test",
       "create_sdk_pull_requests": true,
       "sdk_generation_pull_request_base": "integration_branch"
     },
